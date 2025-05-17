@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXE0cWsxZzl3MXRxbXo3bDNid2FsZjFtaDUzcnBhc3gwandwb204OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="50%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXE0cWsxZzl3MXRxbXo3bDNid2FsZjFtaDUzcnBhc3gwandwb204OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="40%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Riffat </h1>
@@ -43,8 +43,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="370"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fetchfail&show_icons=true&theme=tokyonight" width="370"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fetchfail&layout=compact&theme=tokyonight" width="300"/>
 </p>
 
 ---
