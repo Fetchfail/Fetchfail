@@ -1,60 +1,62 @@
-<h2 align="center">Hi, I'm Your Name 👋</h2>
+<h1 align="center">Welcome to My Dev World 🌌</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### ✨ Quick Bits
 
-- 🔭 Working on cool apps with Flutter
-- 🌱 Learning Riverpod & Flame
-- 🧠 Passionate about clean code & smooth UI
-- 📫 Reach me: your@email.com
+- 💼 Flutter freelancer
+- 🎨 UI/UX enthusiast
+- 💻 Terminal guy
+- 🍵 Tea over coffee (sometimes)
 
 ---
 
-### ⚙️ Tech Stack
+### 🧰 Tools & Languages
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28"/>
 </p>
 
 ---
 
-### 🔥 Featured GIFs
+### 🧪 Mini Gallery (GIFs)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l46Cbqvg5qFvNxjDO/giphy.gif" width="200"/>
 </p>
 
 ---
 
-### 📈 GitHub Overview
+### 📷 Mini Bio Visual
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://your-image-link.com/yourphoto.jpg" width="120" style="border-radius: 50%;" />
 </p>
 
 ---
 
-### 🖼️ Avatar
+### 📊 Stats Panel
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="120" style="border-radius: 50%;" alt="Avatar"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=calm" width="360"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=calm" width="300"/>
 </p>
 
 ---
 
-### 🌍 Socials
+### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/></a>
-  <a href="mailto:you@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
-  <a href="https://yourwebsite.dev"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="30"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="28"/></a>
+  <a href="https://dev.to/yourusername"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="28"/></a>
+  <a href="https://youtube.com/@yourchannel"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="28"/></a>
 </p>
